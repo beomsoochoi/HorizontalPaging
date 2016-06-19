@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_a57e11073829b0df92e646e18366ddc180968b91.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.3.0_b526116c1f6d1fc263497cbab192d8afa8883e2c.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_83a95116d105a52e22f29faabaa0af14b3d0fcaf.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_040b4b4040a96810f46ec15943208475f63dbaf3.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2a86182406873e7d38abae898fc786c08c111b06">
+        <dex dex="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c95e3f9f146966b5ed60baf4b69b044026fa0b8e.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c6be4281003462f6e0fecc3ec217e5e1af35015d">
+        <dex dex="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\instant-run_8cc8e0c376a303a9ea813a63e5474deb30f2fa45.jar" />
+    </item>
+    <item
+        jar="C:\SDK\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Android\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_d48c8202e2c62a91cfbab478e49b5f28cb6d1997.jar" />
+    </item>
+
+</items>
